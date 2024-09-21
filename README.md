@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhishekkrsingh2023kolkata@gmail.com**
 
-- 📄 Know about my experiences [Complete C++/C and python basics]
+- 📄 Know about my experiences [Complete C++/C and python(Numpy,pandas and matplotlib)]
 
 - ⚡ Fun fact **Life is filled with problems so write a code to fix it..**
 ## 🌐 Connect With Me:
