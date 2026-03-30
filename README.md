@@ -1,60 +1,77 @@
 <div align="center">
 
-# 👋 Hi, I'm **Abhishek Kumar Singh**  
-### 🎯 Aspiring Data Analyst & Machine Learning Enthusiast | B.Tech CSE-AI  
+# 👋 Hi, I'm **Abhishek Kumar Singh**
+
+### 🚀 FARM Stack Developer | Python & FastAPI Backend Engineer
 
 ---
 
-🎓 **About Me**  
-📍 B.Tech CSE-AI student from India  
-🔭 Exploring **Machine Learning**, **Data Analytics**, and **DSA**  
-💡 Passionate about turning data into actionable insights  
-🤝 Open to collaboration on **Data Science** & **Python-based projects**  
-📬 Reach me at: **abhishekkrsingh2023kolkata@gmail.com**
+🎓 **About Me**
+📍 Developer from India
+⚡ Specializing in **FARM Stack (FastAPI, React, MongoDB)**
+💻 Experienced in building **scalable APIs**, **full-stack web apps**, and **cloud-ready micro-services**
+🧠 Passionate about backend engineering, system design & automation
+🤝 Open to collaboration on **FastAPI**, **React**, **Dockerized** projects
+📬 Reach me at: **[abhishekkrsingh2023kolkata@gmail.com](mailto:abhishekkrsingh2023kolkata@gmail.com)**
 
 ---
 
-## 🚀 Skills & Tools
+## 🧩 Tech Stack & Tools
 
-### 👨‍💻 Programming & Frameworks  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🖥️ Core Stack — FARM
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-### 📊 Data & ML  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23143b58.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+### 🛠️ Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge\&logo=uvicorn\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C21?style=for-the-badge\&logo=redis\&logoColor=white)
 
 ---
 
-### 🛠️ Others  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-## 🌐 Let's Connect  
+### 🧰 DevOps & System Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-singh-a12590231)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekkrsingh2023)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 
 ---
 
-📌 *“Solving problems, one line of code at a time.”*  
+### 📊 Additional Tools
 
-[![](https://visitcount.itsvg.in/api?id=Abhishekkrsingh2023&label=Profile%20Views&icon=5&color=6)](https://visitcount.itsvg.in)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-singh-a12590231)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Abhishekkrsingh2023)
+
+---
+
+📌 *“Building fast APIs and smart interfaces — one commit at a time.”*
+
+[![](https://visitcount.itsvg.in/api?id=Abhishekkrsingh2023\&label=Profile%20Views\&icon=5\&color=6)](https://visitcount.itsvg.in)
 
 </div>
+
+---
