@@ -4,6 +4,8 @@
 
 ### 🐍 Python Developer | Backend Engineer | Full-Stack Builder
 
+<img src="assets/coder.gif" alt="Coding GIF" width="700"/>
+
 ---
 
 > *"Building fast APIs and smart interfaces — one commit at a time."*
