@@ -4,7 +4,7 @@
 
 ### 🐍 Python Developer | Backend Engineer | Full-Stack Builder
 
-<img src="assets/coder.gif" alt="Coding GIF" width="700"/>
+<img src="assets/banner.jpeg" alt="Coding Banner" width="800"/>
 
 ---
 
