@@ -79,12 +79,6 @@ looking_for: Collabs on FastAPI, React, Dockerized & Node.js projects
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ PDF Editor Suite
-Online PDF editing tool — convert pages to JPG, delete/reorder/insert pages, and merge multiple PDFs into one.
-
-</td>
-<td width="50%" valign="top">
-
 ### 📝 Blog SPA (FARM Stack)
 FastAPI + React + MongoDB blog platform with SEO crawler middleware, server-side Markdown rendering via `mistune`, and cookie-based JWT auth.
 
