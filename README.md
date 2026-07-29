@@ -21,12 +21,12 @@
 
 ```yaml
 name: Abhishek Kumar Singh
-role: Python Developer / Backend Engineer / Full-Stack Builder
+role: Python Developer / Full-Stack Developer / DevOps Enthusiast
 location: Kolkata, India
-focus: Python backends · REST APIs · Full-stack web apps
-interests: Backend engineering · System design · Automation
-databases: Relational DBs · ORM design · Schema migrations
-looking_for: Collabs on FastAPI, React, Dockerized & Node.js projects
+focus: Python & Node.js · REST APIs · Full-stack web apps
+interests: Backend engineering · DevOps · Automation
+databases: RDBMS · NoSQL · ORM design · Schema migrations
+looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ```
 
 <br/>
@@ -74,32 +74,36 @@ looking_for: Collabs on FastAPI, React, Dockerized & Node.js projects
 <br/>
 
 ## 🚀 Currently Building
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Blog SPA (FARM Stack)
-FastAPI + React + MongoDB blog platform with SEO crawler middleware, server-side Markdown rendering via `mistune`, and cookie-based JWT auth.
+### 📝 Portfolio | Blog website
+Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO crawler middleware, server-side Markdown rendering.
+
+</td>
+<td width="50%" valign="top">
+### 🧪 Code0 | Code Execution Sandbox
+Backend interface for a multi-language code execution sandbox, using FastAPI, Redis, and Docker with subprocess-based isolation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+### 🔄 Markdown Converter
+FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
 
-### 🎞️ GIF Compressor Service
-FastAPI + `gifsicle` Dockerized service with frame-skip control, compression stat headers, and background temp-file cleanup.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 Markdown → PDF/DOCX Exporter
-FastAPI service using `pypandoc` to convert Markdown into polished PDF and DOCX output.
+### 🛒 BuyNow | E-commerce App
+Full-stack e-commerce application with product listings, cart, and checkout, built with FastAPI, React.
+
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## 📊 GitHub Stats
