@@ -83,13 +83,16 @@ Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO 
 
 </td>
 <td width="50%" valign="top">
+  
 ### 🧪 Code0 | Code Execution Sandbox
 Backend interface for a multi-language code execution sandbox, using FastAPI, Redis, and Docker with subprocess-based isolation.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
+  
 ### 🔄 Markdown Converter
 FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
 
@@ -104,6 +107,7 @@ Full-stack e-commerce application with product listings, cart, and checkout, bui
 </td>
 </tr>
 </table>
+
 <br/>
 
 ## 📊 GitHub Stats
