@@ -78,12 +78,12 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Portfolio | Blog website
-Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO crawler middleware, server-side Markdown rendering.
+### 🎯 Jobify | AI Job Matcher & Skill-Gap Analyzer
+AI-driven platform that matches candidates to roles, identifies skill gaps, and generates structured preparation plans and roadmaps for targeted jobs.
 
 </td>
 <td width="50%" valign="top">
-  
+
 ### 🧪 Code0 | Code Execution Sandbox
 Backend interface for a multi-language code execution sandbox, using FastAPI, Redis, and Docker with subprocess-based isolation.
 
@@ -92,17 +92,15 @@ Backend interface for a multi-language code execution sandbox, using FastAPI, Re
 
 <tr>
 <td width="50%" valign="top">
-  
-### 🔄 Markdown Converter
-FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
 
+### 📝 Portfolio | Blog website
+Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO crawler middleware, server-side Markdown rendering.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 BuyNow | E-commerce App
-Full-stack e-commerce application with product listings, cart, and checkout, built with FastAPI, React.
-
+### 🔄 Markdown Converter
+FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
 
 </td>
 </tr>
