@@ -8,12 +8,13 @@
 
 <br/>
 
-<!-- ![Profile Views](https://visitcount.itsvg.in/api?id=Abhishekkrsingh2023&label=Profile%20Views&icon=5&color=6) -->
 [![LinkedIn](https://img.shields.io/badge/-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abhishek-kumar-singh-a12590231)
 [![GitHub](https://img.shields.io/badge/-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Abhishekkrsingh2023)
 [![Gmail](https://img.shields.io/badge/-Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:abhikrsingh.dev@gmail.com)
 
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekkrsingh2023&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrsingh2023" /> 
+</p>
 
 <br/>
 
@@ -21,17 +22,17 @@
 
 ```yaml
 name: Abhishek Kumar Singh
-role: Python Developer / Full-Stack Developer / DevOps Enthusiast
+role: Full-Stack Developer / DevOps & Agentic AI Enthusiast
 location: Kolkata, India
-focus: Python & Node.js · REST APIs · Full-stack web apps
-interests: Backend engineering · DevOps · Automation
-databases: RDBMS · NoSQL · ORM design · Schema migrations
+focus: Python & Node.js · REST APIs · Full-stack & GenAI
+interests: Backend engineering · DevOps · Agentic AI
+databases: RDBMS · NoSQL · ORM design · Alembic
 looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ```
 
 <br/>
 
-## 🧬 Tech Stack
+## 💻 `Tech Stack`
 
 <div align="center">
 
@@ -61,6 +62,7 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 **DevOps & System Tools**
 
@@ -73,7 +75,7 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 
 <br/>
 
-## 🚀 Currently Building
+## 🚀 `Currently Building`
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -108,7 +110,16 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 
 <br/>
 
-## 📊 GitHub Stats
+## 🐍`Contribution Snake`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekkrsingh2023/Abhishekkrsingh2023/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekkrsingh2023/Abhishekkrsingh2023/output/github-snake-light.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhishekkrsingh2023/Abhishekkrsingh2023/output/github-snake-light.svg">
+  </picture>
+</div>
+
+## 📊 `GitHub Stats`
 
 <div align="center">
 
@@ -118,7 +129,7 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 
 <br/>
 
-## 🌐 Let's Connect
+## 🌐 `Let's Connect`
 
 <div align="center">
 
