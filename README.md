@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="assets/banner.jpeg" alt="Coding Banner" width="800"/>
+<!-- <img src="assets/banner.jpeg" alt="Coding Banner" width="800"/> -->
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abhishek+Kumar+Singh;Python+%7C+FastAPI+%7C+Backend+Engineer;Building+APIs+that+actually+scale;Welcome+to+my+corner+of+the+stack." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Abhishek+Kumar+Singh;Full-Stack+Engineer+%7C+Backend+Focused;Building+Scalable+APIs+%26+Modern+Web+Systems;DevOps+%7C+Docker+%7C+Linux+%7C+Cloud;Exploring+Agentic+AI+%26+Intelligent+Systems;Turning+Ideas+into+Production-Ready+Software." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abhishek-kumar-singh-a12590231)
-[![GitHub](https://img.shields.io/badge/-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Abhishekkrsingh2023)
-[![Gmail](https://img.shields.io/badge/-Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:abhikrsingh.dev@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abhishek-kumar-singh-a12590231)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Abhishekkrsingh2023)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:abhikrsingh.dev@gmail.com)
 
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekkrsingh2023&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrsingh2023" /> 
 </p>
 
@@ -109,6 +112,39 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 </table>
 
 <br/>
+<br/>
+
+## 📊 `GitHub Stats`
+<!-- Contribution Graph -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekkrsingh2023&theme=radical"
+    alt="Abhishek's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<!-- GitHub Stats + Top Languages -->
+<p align="center">
+  <a href="https://github.com/Abhishekkrsingh2023">
+    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abhishekkrsingh2023&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      alt="Abhishek's GitHub Stats"
+      width="48%"
+    />
+  </a>
+  <a href="https://github.com/Abhishekkrsingh2023">
+    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkrsingh2023&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      alt="Abhishek's Top Languages"
+      width="48%"
+    />
+  </a>
+</p>
+
+<br/>
 
 ## 🐍`Contribution Snake`
 <div align="center">
@@ -117,14 +153,6 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekkrsingh2023/Abhishekkrsingh2023/output/github-snake-light.svg">
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhishekkrsingh2023/Abhishekkrsingh2023/output/github-snake-light.svg">
   </picture>
-</div>
-
-## 📊 `GitHub Stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkrsingh2023&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
-
 </div>
 
 <br/>
@@ -139,6 +167,6 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 
 <br/>
 
-> *"Building fast APIs and smart interfaces — one commit at a time."*
+*"APIs that move. Systems that think. Software that scales."*
 
 </div>
