@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="assets/banner.jpeg" alt="Coding Banner" width="800"/> -->
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Abhishek+Kumar+Singh;Full-Stack+Engineer+%7C+Backend+Focused;Building+Scalable+APIs+%26+Modern+Web+Systems;DevOps+%7C+Docker+%7C+Linux+%7C+Cloud;Exploring+Agentic+AI+%26+Intelligent+Systems;Turning+Ideas+into+Production-Ready+Software." alt="Typing SVG" />
@@ -73,6 +71,11 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**AI Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20GenAI-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
