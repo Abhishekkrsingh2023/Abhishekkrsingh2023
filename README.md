@@ -7,7 +7,6 @@
 <br/>
 
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abhishek-kumar-singh-a12590231)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Abhishekkrsingh2023)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:abhikrsingh.dev@gmail.com)
@@ -21,6 +20,10 @@
 
 ## ⚡ `> whoami`
 
+<table>
+<tr>
+<td>
+
 ```yaml
 name: Abhishek Kumar Singh
 role: Full-Stack Developer / DevOps & Agentic AI Enthusiast
@@ -31,9 +34,16 @@ databases: RDBMS · NoSQL · ORM design · Alembic
 looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ```
 
+</td>
+<td width="30%">
+<img src="./assets/coding.gif" height="190"/>
+</td>
+</tr>
+</table>
+
 <br/>
 
-## 💻 `Tech Stack`
+## 💻 `> Tech Stack`
 
 <div align="center">
 
@@ -81,7 +91,7 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 
 <br/>
 
-## 🚀 `Currently Building`
+## 🚀 `> Currently Building`
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -117,7 +127,7 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 <br/>
 <br/>
 
-## 📊 `GitHub Stats`
+## 📊 `> GitHub Stats`
 <!-- Contribution Graph -->
 <p align="center">
   <img
@@ -149,7 +159,7 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 
 <br/>
 
-## 🐍`Contribution Snake`
+## 🐍`> Contribution Snake`
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekkrsingh2023/Abhishekkrsingh2023/output/github-snake-dark.svg">
@@ -160,7 +170,7 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
 
 <br/>
 
-## 🌐 `Let's Connect`
+## 🌐 `> Let's Connect`
 
 <div align="center">
 
