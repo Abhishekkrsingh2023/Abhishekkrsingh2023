@@ -145,14 +145,14 @@ FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under th
     <img
       src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abhishekkrsingh2023&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
       alt="Abhishek's GitHub Stats"
-      width="48%"
+      width="59%"
     />
   </a>
   <a href="https://github.com/Abhishekkrsingh2023">
     <img
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkrsingh2023&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
       alt="Abhishek's Top Languages"
-      width="48%"
+      width="38%"
     />
   </a>
 </p>
