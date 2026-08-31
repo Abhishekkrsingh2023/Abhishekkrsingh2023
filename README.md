@@ -47,45 +47,14 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 
 <div align="center">
 
-**Core Language**
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Backend Engineering**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=uvicorn&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D92C21?style=for-the-badge&logo=redis&logoColor=white)
-
-**Databases & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=alembic&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**DevOps & System Tools**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**AI Tools**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20GenAI-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+| Category | Technologies & Tools |
+| :---: | :---: |
+| **Languages & Runtimes** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,bun&theme=dark" alt="Languages" /></a> |
+| **Backend Engineering** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,express,redis&theme=dark" alt="Backend" /></a><br/><img src="https://img.shields.io/badge/Pydantic-141414?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />&nbsp;<img src="https://img.shields.io/badge/Uvicorn-141414?style=flat-square&logo=uvicorn&logoColor=white" alt="Uvicorn" />&nbsp;<img src="https://img.shields.io/badge/uv-141414?style=flat-square&logo=astral&logoColor=white" alt="uv" /> |
+| **Databases & ORM** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" /></a><br/><img src="https://img.shields.io/badge/SQLAlchemy-141414?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />&nbsp;<img src="https://img.shields.io/badge/Alembic-141414?style=flat-square&logo=alembic&logoColor=white" alt="Alembic" /> |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" /></a> |
+| **DevOps & System** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,ubuntu,linux&theme=dark" alt="DevOps" /></a> |
+| **AI Tools** | <img src="https://img.shields.io/badge/Google%20Gemini-141414?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />&nbsp;<img src="https://img.shields.io/badge/LangChain-141414?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> |
 
 </div>
 
