@@ -35,8 +35,8 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ```
 
 </td>
-<td width="32%">
-<img src="./assets/coding.gif" height="200"/>
+<td width="40%">
+<img src="./assets/my-pic.png" height="250"/>
 </td>
 </tr>
 </table>
