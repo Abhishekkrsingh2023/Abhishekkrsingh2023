@@ -20,10 +20,6 @@
 
 ## ⚡ `> whoami`
 
-<table>
-<tr>
-<td>
-
 ```yaml
 name: Abhishek Kumar Singh
 role: Full-Stack Developer / DevOps & Agentic AI Enthusiast
@@ -34,13 +30,6 @@ databases: RDBMS · NoSQL · ORM design · Alembic
 looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 ```
 
-</td>
-<td width="40%">
-<img src="./assets/my-pic.png" height="250"/>
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 💻 `> Tech Stack`
@@ -49,12 +38,12 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 
 | Category | Technologies & Tools |
 | :---: | :---: |
-| **Languages & Runtimes** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,bun&theme=dark" alt="Languages" /></a> |
+| **Languages & Runtimes** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="Languages" /></a> |
 | **Backend Engineering** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,express,redis&theme=dark" alt="Backend" /></a><br/><img src="https://img.shields.io/badge/Pydantic-141414?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />&nbsp;<img src="https://img.shields.io/badge/Uvicorn-141414?style=flat-square&logo=uvicorn&logoColor=white" alt="Uvicorn" />&nbsp;<img src="https://img.shields.io/badge/uv-141414?style=flat-square&logo=astral&logoColor=white" alt="uv" /> |
 | **Databases & ORM** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" /></a><br/><img src="https://img.shields.io/badge/SQLAlchemy-141414?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />&nbsp;<img src="https://img.shields.io/badge/Alembic-141414?style=flat-square&logo=alembic&logoColor=white" alt="Alembic" /> |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" /></a> |
 | **DevOps & System** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,ubuntu,linux&theme=dark" alt="DevOps" /></a> |
-| **AI Tools** | <img src="https://img.shields.io/badge/Google%20Gemini-141414?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />&nbsp;<img src="https://img.shields.io/badge/LangChain-141414?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> |
+| **AI & Agentic Tools** | <img src="https://img.shields.io/badge/Google%20Gemini-141414?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />&nbsp;<img src="https://img.shields.io/badge/LangChain-141414?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;<img src="https://img.shields.io/badge/LangGraph-141414?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /> |
 
 </div>
 
