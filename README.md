@@ -51,17 +51,21 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 
 ## 🚀 `> Currently Building`
 <table>
+
 <tr>
+<td width="50%" valign="top">
+
+### 🎯 Evalix | Judging Platform
+
+Production-ready, secure, and responsive judging platform for the **INNOV8 3.0 hackathon**, built with Next.js, TypeScript, FastAPI, and PostgreSQL.
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🎯 Jobify | AI Job Matcher & Skill-Gap Analyzer
+
 AI-driven platform that matches candidates to roles, identifies skill gaps, and generates structured preparation plans and roadmaps for targeted jobs.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Code0 | Code Execution Sandbox
-Backend interface for a multi-language code execution sandbox, using FastAPI, Redis, and Docker with subprocess-based isolation.
 
 </td>
 </tr>
@@ -69,17 +73,35 @@ Backend interface for a multi-language code execution sandbox, using FastAPI, Re
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Portfolio | Blog website
-Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO crawler middleware, server-side Markdown rendering.
+### 🧪 Code0 | Code Execution Sandbox
+
+Backend interface for a multi-language code execution sandbox, using FastAPI, Redis, and Docker with subprocess-based isolation.
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔄 Markdown Converter
-FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
+### 📝 Portfolio | Blog Website
+
+Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO crawler middleware and server-side Markdown rendering.
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Markdown Converter
+
+FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
+
 </table>
 
 <br/>
