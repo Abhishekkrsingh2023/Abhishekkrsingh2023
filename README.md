@@ -21,15 +21,26 @@
 ## ⚡ `> whoami`
 
 ```yaml
-name: Abhishek Kumar Singh
-role: Full-Stack Developer / DevOps & Agentic AI Enthusiast
-location: Kolkata, India
-focus: Python & Node.js · REST APIs · Full-stack & GenAI
-interests: Backend engineering · DevOps · Agentic AI
-databases: RDBMS · NoSQL · ORM design · Alembic
-looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
-```
 
+name: Abhishek Kumar Singh
+role: Full-Stack Engineer | AI Engineering
+location: Kolkata, India
+
+currently_building:
+  - Production-ready APIs
+  - Agentic AI & RAG systems
+  - Dockerized developer infrastructure
+
+engineering_interests:
+  - Backend Architecture
+  - DevOps
+  - Agentic AI
+  - GenAI Applications
+  
+open_to:
+  Collaborating on ambitious Python, Node.js, AI &
+  DevOps projects.
+```
 <br/>
 
 ## 💻 `> Tech Stack`
@@ -38,73 +49,15 @@ looking_for: Collabs on Python, FastAPI, Node.js, Next.js & Dockerized projects
 
 | Category | Technologies & Tools |
 | :---: | :---: |
-| **Languages & Runtimes** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="Languages" /></a> |
-| **Backend Engineering** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,express,redis&theme=dark" alt="Backend" /></a><br/><img src="https://img.shields.io/badge/Pydantic-141414?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />&nbsp;<img src="https://img.shields.io/badge/Uvicorn-141414?style=flat-square&logo=uvicorn&logoColor=white" alt="Uvicorn" />&nbsp;<img src="https://img.shields.io/badge/uv-141414?style=flat-square&logo=astral&logoColor=white" alt="uv" /> |
-| **Databases & ORM** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" /></a><br/><img src="https://img.shields.io/badge/SQLAlchemy-141414?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />&nbsp;<img src="https://img.shields.io/badge/Alembic-141414?style=flat-square&logo=alembic&logoColor=white" alt="Alembic" /> |
+| **Languages & Runtimes** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,java&theme=dark" alt="Languages" /></a> |
+| **Backend Engineering** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,express,bun&theme=dark" alt="Backend" /></a><br/><img width="40" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" alt="uv" /> |
+| **Databases & ORM** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" /></a><br/><img src="https://img.shields.io/badge/SQLAlchemy-141414?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />&nbsp;<img src="https://img.shields.io/badge/Alembic-141414?style=flat-square&logo=alembic&logoColor=white" alt="Alembic" /> |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" /></a> |
-| **DevOps & System** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,ubuntu,linux&theme=dark" alt="DevOps" /></a> |
+| **DevOps & System** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux&theme=dark" alt="DevOps" /></a> |
 | **AI & Agentic Tools** | <img src="https://img.shields.io/badge/Google%20Gemini-141414?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />&nbsp;<img src="https://img.shields.io/badge/LangChain-141414?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;<img src="https://img.shields.io/badge/LangGraph-141414?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /> |
 
 </div>
 
-<br/>
-
-## 🚀 `> Currently Building`
-<table>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Evalix | Judging Platform
-
-Production-ready, secure, and responsive judging platform for the **INNOV8 3.0 hackathon**, built with Next.js, TypeScript, FastAPI, and PostgreSQL.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 Jobify | AI Job Matcher & Skill-Gap Analyzer
-
-AI-driven platform that matches candidates to roles, identifies skill gaps, and generates structured preparation plans and roadmaps for targeted jobs.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Code0 | Code Execution Sandbox
-
-Backend interface for a multi-language code execution sandbox, using FastAPI, Redis, and Docker with subprocess-based isolation.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📝 Portfolio | Blog Website
-
-Next.js + React + TailwindCSS + TypeScript portfolio and blog platform with SEO crawler middleware and server-side Markdown rendering.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 Markdown Converter
-
-FastAPI-powered Markdown to PDF/DOC converter, using pypandoc and LaTeX under the hood, packaged as a Docker container for consistent conversions.
-
-</td>
-
-<td width="50%" valign="top">
-
-</td>
-</tr>
-
-</table>
-
-<br/>
 <br/>
 
 ## 📊 `> GitHub Stats`
